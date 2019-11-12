@@ -1,3 +1,5 @@
+[ - - -  Go to Index - - - ](/magento2-associate-developer-guide)
+
 ### 1.0. Magento Architecture & Customisation Techniques
 This section covers **33%** of the exam.
 
@@ -583,3 +585,5 @@ Checks whether the Magento database needs to be upgraded.
 
 ##### `setup:upgrade`
 Synchronises module versions in the database with those defined in the codebase.
+
+[ - - -  Go to Index - - - ](/magento2-associate-developer-guide)

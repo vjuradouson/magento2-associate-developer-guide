@@ -1,3 +1,5 @@
+[ - - -  Go to Index - - - ](/magento2-associate-developer-guide)
+
 ## ⛏️ Exam Structure
 The exam is based on **Magento 2.3.\*** using the **Magento Luma Theme**.
 
@@ -8,3 +10,5 @@ There are **60 multiple choice questions**.
 There is a **90 minute time limit**.
 
 The pass grade is **68%**.
+
+[ - - -  Go to Index - - - ](/magento2-associate-developer-guide)

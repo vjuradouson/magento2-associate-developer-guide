@@ -1,3 +1,5 @@
+[ - - -  Go to Index - - - ](/magento2-associate-developer-guide)
+
 ### 2.0 Request Flow Processing
 This section covers **7%** of the exam.
 
@@ -70,3 +72,5 @@ You can change a URL by creating a URL rewrite. The following actions also cause
 > How do you determine which page corresponds to a given user-friendly URL?
 
 In the `url_rewrite` table you will find a row where the `request_path` value is the user-friendly URL. The corresponding `target_path` value is the internal Magento page. The `Magento_UrlRewrite` module contains a router that checks to see whether the given URL can be matched to a `request_path` in the `url_rewrite` table, redirecting to the `target_path` if a match is found.
+
+[ - - -  Go to Index - - - ](/magento2-associate-developer-guide)

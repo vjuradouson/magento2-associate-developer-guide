@@ -1,3 +1,5 @@
+[ - - -  Go to Index - - - ](/magento2-associate-developer-guide)
+
 ### 3.0. Customising The Magento UI
 This section covers **15%** of the exam.
 
@@ -240,3 +242,5 @@ Includes a certain layout file.
 ---
 #### 3.5. Create & Add Code & Markup To A Page
 > How do you add new content to existing pages using layout XML?
+
+[ - - -  Go to Index - - - ](/magento2-associate-developer-guide)

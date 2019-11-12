@@ -1,3 +1,5 @@
+[ - - -  Go to Index - - - ](/magento2-associate-developer-guide)
+
 ### 4.0. Working With Databases In Magento
 This section covers **18%** of the exam.
 
@@ -232,3 +234,5 @@ Schema patches are used to make custom database schema modifications:
 - Renaming tables
 - Adding/removing columns
 - Setting primary & foreign keys
+
+[ - - -  Go to Index - - - ](/magento2-associate-developer-guide)

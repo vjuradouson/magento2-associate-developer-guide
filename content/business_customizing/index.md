@@ -1,3 +1,5 @@
+[ - - -  Go to Index - - - ](/magento2-associate-developer-guide)
+
 ### 6.0. Customising Magento Business Logic
 This section covers **16%** of the exam.
 
@@ -141,3 +143,5 @@ $attribute->save();
 [Product Types](https://docs.magento.com/m2/ee/user_guide/catalog/product-types.html)
 
 [Declarative Schema](https://devdocs.magento.com/guides/v2.3/extension-dev-guide/declarative-schema/)
+
+[ - - -  Go to Index - - - ](/magento2-associate-developer-guide)
