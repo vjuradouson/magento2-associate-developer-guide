@@ -1,3 +1,5 @@
+####[ - Go to Index - ](/magento2-associate-developer-guide)
+
 ## 🧐 Tips & Useful Information
 The exam includes questions relating to Magento Admin - more than you would expect. It is worth knowing some of the more common features and areas:
 - Marketing & SEO
@@ -11,3 +13,5 @@ Quite a few answers are very similar, make sure you are confident in the exact f
 It may be beneficial to set up a throwaway Magento environment to test some of the things that you revise - such as managing the database using the Declarative Schema; something introduced within Magento 2.3. There were quite a few questions which involved knowledge regarding Data and Schema patches and being aware when to use them.
 
 To define what UI components are used for certain admin options, these are **SOURCE MODELS**, not Backend or Config models.
+
+####[ - Go to Index - ](/magento2-associate-developer-guide)
