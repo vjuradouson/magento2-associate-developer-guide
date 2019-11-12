@@ -1,4 +1,4 @@
-###[ - Go to Index - ](/magento2-associate-developer-guide)
+##[ - Go to Index - ](/magento2-associate-developer-guide)
 
 ## 🧐 Tips & Useful Information
 The exam includes questions relating to Magento Admin - more than you would expect. It is worth knowing some of the more common features and areas:
@@ -14,4 +14,4 @@ It may be beneficial to set up a throwaway Magento environment to test some of t
 
 To define what UI components are used for certain admin options, these are **SOURCE MODELS**, not Backend or Config models.
 
-###[ - Go to Index - ](/magento2-associate-developer-guide)
+##[ - Go to Index - ](/magento2-associate-developer-guide)
