@@ -3,6 +3,10 @@
 ### 2.0 Request Flow Processing
 This section covers **7%** of the exam.
 
+- [2.1. Describe Magento 2 Modes](#21-describe-magento-2-modes)
+- [2.2. Demonstrate Ability To Use Frontend Controllers](#22-demonstrate-ability-to-use-frontend-controllers)
+- [2.3. URL Rewrites](#23-url-rewrites)
+
 ---
 #### 2.1. Describe Magento 2 Modes
 > Understand the pros and cons of using developer mode or production mode.

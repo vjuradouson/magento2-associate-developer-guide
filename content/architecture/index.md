@@ -10,7 +10,7 @@ This section covers **33%** of the exam.
 - [1.5. Demonstrate Ability To Use Plugins](#15-demonstrate-ability-to-use-plugins)
 - [1.6. Configure Event Observers & Scheduled Jobs](#16-configure-event-observers--scheduled-jobs)
 - [1.7. Utilise the CLI](#17-utilise-the-cli)
-- [1.8 Describe how extensions are installed and configured](#18-Describe-how-extensions-are-installed-and-configured)
+- [1.8 Describe how extensions are installed and configured](#18-describe-how-extensions-are-installed-and-configured)
 
 #### 1.1. Describe the Magento Module-Based Architecture
 > What are the significant steps to add a new module?
