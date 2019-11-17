@@ -3,6 +3,15 @@
 ### 1.0. Magento Architecture & Customisation Techniques
 This section covers **33%** of the exam.
 
+- [1.1. Describe the Magento Module-Based Architecture](#11-describe-the-magento-module-based-architecture)
+- [1.2. Describe the Magento Directory Structure](#12-describe-the-magento-directory-structure)
+- [1.3. Utilise Configuration and Configuration Variables Scope](#13-utilise-configuration-and-configuration-variables-scope)
+- [1.4. Demonstrate How To Use Dependency Injection](#14-demonstrate-how-to-use-dependency-injection)
+- [1.5. Demonstrate Ability To Use Plugins](#15-demonstrate-ability-to-use-plugins)
+- [1.6. Configure Event Observers & Scheduled Jobs](#16-configure-event-observers--scheduled-jobs)
+- [1.7. Utilise the CLI](#17-utilise-the-cli)
+- [1.8 Describe how extensions are installed and configured](#18-Describe-how-extensions-are-installed-and-configured)
+
 #### 1.1. Describe the Magento Module-Based Architecture
 > What are the significant steps to add a new module?
 
@@ -585,5 +594,7 @@ Checks whether the Magento database needs to be upgraded.
 
 ##### `setup:upgrade`
 Synchronises module versions in the database with those defined in the codebase.
+
+#### 1.8 Describe how extensions are installed and configured
 
 [ - - -  Go to Index - - - ](/magento2-associate-developer-guide)
