@@ -1,6 +1,15 @@
 [ - - -  Go to Index - - - ](/magento2-associate-developer-guide)
 
-### 6.0. Customising Magento Business Logic
+- [6.1. Product Types](#61-product-types)
+- [6.2. Category Properties](#62-category-properties)
+- [6.3. Product/Category Relations](#63-productcategory-relations)
+- [6.4. Product Behaviour In The Cart](#64-product-behaviour-in-the-cart)
+- [6.5. Native Shipping Functionality](#65-native-shipping-functionality)
+- [6.6. Customer Account Area Customisation](#66-customer-account-area-customisation)
+- [6.7. Add/Modify Customer Attributes](#67-addmodify-customer-attributes)
+- [6.8. Customising Customer Addresses](#68-customising-customer-addresses)
+
+#### 6.0. Customising Magento Business Logic
 This section covers **16%** of the exam.
 
 #### 6.1. Product Types

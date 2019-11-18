@@ -3,6 +3,12 @@
 ### 3.0. Customising The Magento UI
 This section covers **15%** of the exam.
 
+- [3.1. Customise The Magento UI Using Themes](#31-customise-the-magento-ui-using-themes)
+- [3.2. Blocks & Templates](#32-blocks--templates)
+- [3.3. Identify Different Types Of Blocks](#33-identify-different-types-of-blocks)
+- [3.4. Magento Layout XML](#34-magento-layout-xml)
+- [3.5. Create & Add Code & Markup To A Page](#35-create--add-code--markup-to-a-page)
+
 #### 3.1. Customise The Magento UI Using Themes
 > When would you create a new theme?
 

@@ -3,6 +3,12 @@
 ### 5.0. Developing With Adminhtml
 This section covers **11%** of the exam.
 
+- [5.1. Admin Routes](#51-admin-routes)
+- [5.2. System Configuration & Scopes](#52-system-configuration--scopes)
+- [5.3. ACL](#53-acl)
+- [5.4. Setup A Menu Item](#54-setup-a-menu-item)
+- [5.5. Create User Permissions](#55-create-user-permissions)
+
 #### 5.1. Admin Routes
 > How would you create an admin controller?
 

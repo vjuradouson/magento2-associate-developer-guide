@@ -3,6 +3,11 @@
 ### 4.0. Working With Databases In Magento
 This section covers **18%** of the exam.
 
+- [4.1. Models, Resource Models, And Collections](#41-models-resource-models-and-collections)
+- [4.2. Entity Loading And Saving](#42-entity-loading-and-saving)
+- [4.3. Filter, Sort, And Select From Collections & Repositories](#43-filter-sort-and-select-from-collections--repositories)
+- [4.4. Declarative Schema](#44-declarative-schema)
+
 #### 4.1. Models, Resource Models, And Collections
 > What are the responsibilities of each of the ORM object types?
 
