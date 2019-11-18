@@ -82,7 +82,7 @@ Defines a block. A block is a unit of page output that renders some distinctive 
 | `after` | Used to position the block after an element under the same parent. The element name or alias name is specified in the value. Use dash (`-`) to position the block after all other elements of its level of nesting. | Element name or dash (`-`). | No |
 | `template` | A template that represents the functionality of the block to which this attribute is assigned. | Template file name | No |
 | `as` | An alias name that serves as identifier in the scope of the parent element. | Same as `name` | No |
-| `cachable` | Defines whether a block element is cacheable. This can be used for development purposes and to make needed elements of the page dynamic. | `true` or `false` | No |
+| `cacheable` | Defines whether a block element is cacheable. This can be used for development purposes and to make needed elements of the page dynamic. | `true` or `false` | No |
 
 ```XML
 @TODO: <block /> example
