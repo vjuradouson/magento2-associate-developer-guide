@@ -43,17 +43,56 @@ bin/magento maintenance:disable
 ```
 
 ---
-#### 2.2. Demonstrate Ability To Use Frontend Controllers
+#### 2.2. Demonstrate Ability To Use Frontend Controllers with different response types (HTML / JSON / redirect)
+`Extends of Magento/Framework/App/RouterList.php`
+##### frontend area routers:
+
+- 1 - robots
+- 2 - urlrewrite	
+- 3 - standard
+- 4 - cms
+- 5 - default
+
+##### adminhtml area routers:
+- 1 - admin
+- 2 - default	
+
+
 > How do you identify which module/controller corresponds to a given URL?
 
-`https://your-store.com/catalog/product/view/id/42`
+##### Frontend
+Example url: `https://domain.com/index.php/frontname/controller/action`
+File: `app/code/Vendor/ModuleName/etc/frontend/routes.xml`
+````
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
+    <router id="standard">
+        <!--frontName is the name in the front and the id is the layout handle reference -->
+        <route frontName="helloworld" id="helloworld">
+            <module name="Vendor_ModuleName"/>
+        </route>
+    </router>
+</config>
+````
 
-
-
+##### Adminhtml
+Example url: `https://domain.com/index.php/admin/frontname/controller/action`
+File: `app/code/Vendor/ModuleName/etc/adminhtml/routes.xml`
+````
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
+    <router id="admin">
+        <route id="helloworld" frontName="helloworld">
+            <module name="Vendor_ModuleName"/>
+        </route>
+    </router>
+</config>
+````
 ---
 > What would you do to create a given URL?
-
+##### From admin panel
 Set the Category and Product `url_key` attributes. You can also create URL rewrites through the Magento Admin path `Marketing > SEO & Search > URL Rewrites`
+#### See the point above
 
 ---
 #### 2.3. URL Rewrites
