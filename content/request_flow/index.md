@@ -44,7 +44,9 @@ bin/magento maintenance:disable
 
 ---
 #### 2.2. Demonstrate Ability To Use Frontend Controllers with different response types (HTML / JSON / redirect)
-`Extends of Magento/Framework/App/RouterList.php`
+The FrontController class class searches through a list of routers, provided by the RouterList class, until it matches one that can process a request. When the FrontController finds a matching router, it dispatches the request to an action class returned by the router.
+
+If the FrontController cannot find a router to process a request, it uses the default router.
 ##### frontend area routers:
 
 - 1 - robots
